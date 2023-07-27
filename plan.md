@@ -18,3 +18,6 @@ This setting will take place within a Dukedom in the Kingdom of Udirquab, in the
 |Estioli Samasthomod|Duke|
 |Astosor Ilospurde|Viscount / Employer|
 |Aradmon Mospartamun|Baron / Target|
+
+## Lore Notes
+- Healing potion production is not common because while the gods do allow people to channel their energy, though in any pantheon within the realms the gods do not allow the storage of their gifts, as it may be used by ne'er-do-wells for any such act, and as such any healing potion must be created by extreme specialists. Magic is much like blood types where healing with it requires a specific reasonance in order to be successful, lest it lead to some form of backlash depending on the level of compatability. Only those of a specific magical quality may use it, and it requires more precision than typical alchemical brewing in order to get a successful result from the process.
