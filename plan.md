@@ -10,6 +10,8 @@ You will all be seasoned characters with 6 total advancements, This will (unfort
 
 This setting will take place within a Dukedom in the Kingdom of Udirquab, in the Dukedom of Samasthomod. Duke Estioli Samasthomod is well known for their knowledge in medicine and healing magic, and as such is very well known to have the largest variety of plants and other materials for medicines and potions. The information your group has gotten this far is that one of your troupe members stole a code from a messenger found traveling near the Viscount's estate, and when interrogated chose to bite his tongue rather than tell you about their plans. Unfortunately for him, the code used seems to be familiar within the nobility, and as such the Viscount may have some information to give you a lead in order to more easily find the Baron while he is still in search of his goal.
 
+##### You may pick the alchemist class but for in-world reasons I will not be allowing the brewing of specifically items which heal due to the supposed rarity of the potioncraft. All other items will be left available so long as they are not trapped as a potion, the effects may stay the same.
+
 ## Characters Known
 |Character Name|Role/Position|
 |-|-|
