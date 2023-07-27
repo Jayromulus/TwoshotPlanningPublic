@@ -1,4 +1,4 @@
-# Assassin / Hitman Twoshot
+# Assassin / Hitman Oneshot(?)
 
 #### Players will act as a party of assassins who have been hired to take a hit out on someone. They must start by tracking down a messenger who slipped away from the Viscount and gathering their final clue for where the Baron was traveling next on his trip to gather more materials.
 
